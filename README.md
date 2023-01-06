@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/gh pvc/?username=ellie190&label=Profile%20views&color=0e75b6&style=flat" alt="ellie190" /> </p>
 
 - 🔭 I’m currently working on **Automation in R**
 
