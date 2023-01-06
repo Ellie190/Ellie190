@@ -30,7 +30,7 @@
 
 <h3 align="left">Interests:</h3>
 <p align="left">
-Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Deep Learning • Clustering Techniques • Time Series Analysis • Natural Language Processing • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
+Learning Analytics • Healthcare Analytics • Bayesian Analysis • Machine Learning • Deep Learning • Clustering Techniques • Time Series Analysis • Natural Language Processing • Data Science Dashboards • Visualization • Knowledge Sharing 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellie190&show_icons=true&locale=en&layout=compact" alt="ellie190" /></p>
