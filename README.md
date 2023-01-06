@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects in R & Python**
 
-- 👨‍💻 Data science portfolio are available at [https://eli-nimy.netlify.app/](https://eli-nimy.netlify.app/)
+- 👨‍💻 Data science portfolio available at [https://eli-nimy.netlify.app/](https://eli-nimy.netlify.app/)
 
 - 💬 Ask me about **R Shiny, Bayesian Analysis, Machine Learning, Learning Analytics, Data Visualization**
 
