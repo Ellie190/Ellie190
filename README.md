@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **R Shiny, Bayesian Analysis, Machine Learning, Learning Analytics, Data Visualization**
 
-- 📫 How to reach me **nimyellie05@gmail.com**
+- 📫 How to reach me **nimyellie0512@gmail.com**
 
 - ⚡ Fun fact **I watch anime**
 
