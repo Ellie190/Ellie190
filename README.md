@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/827/1*Pn0x0WdbvZOt82Vn2mqxQA.jpeg)](https://github.com/Ellie190/)
 <h1 align="center">Hi 👋, I'm Eli Nimy</h1>
 <h3 align="center">A data scientist from Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
